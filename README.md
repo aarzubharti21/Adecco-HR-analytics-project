@@ -156,13 +156,6 @@ HR-Analytics-Dashboard/
 
 └── README.md
 
----
-
-## Dashboard Preview
-
-Add your dashboard screenshot here:
-
-![Dashboard Preview](Images/HR_Dashboard.png)
 
 ---
 
