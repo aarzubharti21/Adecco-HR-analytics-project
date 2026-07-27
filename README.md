@@ -4,8 +4,6 @@
 
 This project focuses on analyzing employee attrition and workforce trends using HR Analytics. The dashboard provides key insights into employee turnover, job satisfaction, demographics, and workforce performance to help organizations improve employee retention and workforce planning.
 
----
-
 ## Business Problem
 
 Employee attrition is a major challenge for organizations as it impacts productivity, recruitment costs, and organizational performance.
@@ -16,8 +14,6 @@ This project aims to:
 * Analyze factors affecting employee turnover
 * Understand workforce demographics
 * Support strategic HR decision-making
-
----
 
 ## Dataset Information
 
@@ -35,8 +31,6 @@ The dataset contains employee-related information including:
 * Work-Life Balance
 * Years at Company
 * Attrition Status
-
----
 
 ## Key Performance Indicators (KPIs)
 
@@ -59,8 +53,6 @@ The dataset contains employee-related information including:
 * Average Years at Company
 * Average Job Satisfaction Score
 * Average Work-Life Balance Score
-
----
 
 ## Dashboard Visualizations
 
@@ -99,8 +91,6 @@ The dataset contains employee-related information including:
 
 * Attrition by Age Group and Department
 
----
-
 ## Tools Used
 
 * Microsoft Excel
@@ -111,8 +101,6 @@ The dataset contains employee-related information including:
 * HR Analytics
 * Dashboard Design
 
----
-
 ## Key Insights
 
 * Certain departments experience significantly higher attrition rates.
@@ -120,16 +108,12 @@ The dataset contains employee-related information including:
 * Attrition is concentrated within specific experience levels.
 * Work-life balance strongly impacts employee retention.
 
----
-
 ## Recommendations
 
 1. Improve employee engagement programs.
 2. Enhance career growth opportunities.
 3. Address work-life balance concerns.
 4. Implement targeted retention strategies for high-risk departments.
-
----
 
 ## Dashboard Features
 
@@ -139,25 +123,6 @@ The dataset contains employee-related information including:
 * Attrition Analysis
 * Workforce Demographic Insights
 * Executive-Level Dashboard Design
-
----
-
-## Repository Structure
-
-HR-Analytics-Dashboard/
-
-├── Dataset/
-
-├── Dashboard/
-
-├── Documentation/
-
-├── Images/
-
-└── README.md
-
-
----
 
 ## Skills Demonstrated
 
@@ -169,8 +134,6 @@ HR-Analytics-Dashboard/
 * Data Visualization
 * Business Reporting
 
----
-
 ## Future Enhancements
 
 * Power BI Dashboard Version
@@ -179,14 +142,8 @@ HR-Analytics-Dashboard/
 * Machine Learning Integration
 * Workforce Forecasting
 
----
-
 ## Author
+## Aarzu Bharti
 
-**Aarzu Bharti**
 
-* MBA (Business Analytics), Amity University Online
-* ECBA Certified
-* Former Junior Associate, State Bank of India
-* Aspiring Business Analyst & Data Analyst
 
