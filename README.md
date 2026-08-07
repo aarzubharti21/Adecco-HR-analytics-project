@@ -28,11 +28,11 @@ A structured data cleaning and analytical approach was implemented to ensure acc
 
 The final deliverable consists of a highly interactive **Excel HR Analytics Dashboard** that leverages Pivot Tables, Pivot Charts, and dynamic slicers for workforce analysis.
 
-- **Dashboard 1: HR Overview Report:** Presents key HR KPIs including Total Employees, Attrition Rate, Active Employees, Average Age, and Average Salary for a quick overview of organizational performance.
+- **HR Overview Report:** Presents key HR KPIs including Total Employees, Attrition Rate, Active Employees, Average Age, and Average Salary for a quick overview of organizational performance.
 
-- **Dashboard 2: Workforce Analysis Report:** Provides detailed insights into employee distribution across Departments, Job Roles, Education Fields, Gender, Age Groups, and Marital Status.
+- **Workforce Analysis Report:** Provides detailed insights into employee distribution across Departments, Job Roles, Education Fields, Gender, Age Groups, and Marital Status.
 
-- **Dashboard 3: Attrition Analysis Report:** Identifies employee turnover patterns across departments, job roles, salary levels, business travel frequency, overtime status, and years at the company.
+- **Attrition Analysis Report:** Identifies employee turnover patterns across departments, job roles, salary levels, business travel frequency, overtime status, and years at the company.
 
 - **Interactive Reporting:** Enables users to dynamically explore HR insights using slicers for Department, Gender, Job Role, Education, Marital Status, and Business Travel.
 
