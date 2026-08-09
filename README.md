@@ -8,7 +8,7 @@ I am highly enthusiastic to present the **Adecco HR Analytics Dashboard**, an ad
 
 The primary objective of this project was to develop a comprehensive HR monitoring solution that helps organizations understand employee attrition, workforce demographics, and performance trends. Traditional HR reports make it difficult to identify the key factors influencing employee turnover. This project provides an interactive dashboard that allows users to seamlessly analyze HR metrics by department, job role, gender, education, marital status, and other workforce dimensions.
 
-## Analysis Done
+## Analytical Approach
 
 > The file in which the analysis was done is **Adecco HR Analytics Dashboard.xlsx**
 
@@ -36,7 +36,7 @@ The final deliverable consists of a highly interactive **Excel HR Analytics Dash
 
 - **Interactive Reporting:** Enables users to dynamically explore HR insights using slicers for Department, Gender, Job Role, Education, Marital Status, and Business Travel.
 
-## Recommendations
+## Suggestions
 
 Drawing from the interactive exploration of the data, the following strategic actions are highly recommended to improve workforce performance and employee retention:
 
