@@ -1,6 +1,6 @@
 # Adecco HR Analytics Project
 
-## Overview
+## Project Overview
 
 I am highly enthusiastic to present the **Adecco HR Analytics Dashboard**, an advanced **Microsoft Excel Analytics** project designed to transform employee data into actionable HR insights. This project delivers an interactive dashboard that provides deep insights into workforce demographics, employee attrition, job satisfaction, salary distribution, and departmental performance, enabling HR teams to make data-driven workforce decisions.
 
@@ -24,7 +24,7 @@ A structured data cleaning and analytical approach was implemented to ensure acc
 
 - **Data Visualization:** Developed interactive charts, KPI cards, and slicers to provide meaningful insights into employee performance and workforce trends.
 
-## Dashboard
+## Project Insights
 
 The final deliverable consists of a highly interactive **Excel HR Analytics Dashboard** that leverages Pivot Tables, Pivot Charts, and dynamic slicers for workforce analysis.
 
@@ -36,7 +36,7 @@ The final deliverable consists of a highly interactive **Excel HR Analytics Dash
 
 - **Interactive Reporting:** Enables users to dynamically explore HR insights using slicers for Department, Gender, Job Role, Education, Marital Status, and Business Travel.
 
-## Suggestions
+## Business Suggestions
 
 Drawing from the interactive exploration of the data, the following strategic actions are highly recommended to improve workforce performance and employee retention:
 
